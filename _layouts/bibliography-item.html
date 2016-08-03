@@ -1,0 +1,15 @@
+---
+---
+{{ reference }}
+
+<a href="{{link}}" title='Download PDF'>
+  <img src='icons/pdf.png' alt="[PDF]"/>
+</a>
+
+<a href="javascript:togglediv('{{key}}-bibtex')" title='View BibTex'>
+  <img src='icons/bibtex.png' alt="[BibTex]"/>
+</a>
+<div id="{{key}}-bibtex" style="display:none;">
+  <pre><code>{{entry.bibtex}}</code></pre>
+</div>
+
