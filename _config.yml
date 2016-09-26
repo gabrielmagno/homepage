@@ -29,7 +29,8 @@ theme: minima
 gems: [jekyll/scholar]
 
 scholar:
-  style: _bibliography/template.cls
+  style: _bibliography/my_template.csl
+  #style: associacao-brasileira-de-normas-tecnicas
   locale: en
 
   sort_by: year,month
