@@ -4,5 +4,6 @@ layout: default
 
 <img style="float: left; padding-right: 1em;" src="{{ site.url }}/imgs/photo-gabriel.jpg" alt="Gabriel Photo">
 
-I am a PhD student in Computer Science at [Universidade Federal de Minas Gerais (UFMG)](http://www.ufmg.br/). I am currently working at [CAMPS](http://www.camps.dcc.ufmg.br/) under supervision of Prof. [Virgilio Almeida](http://www.dcc.ufmg.br/~virgilio). I obtained my B.S. degree in Computer Science from the Universidade Federal de Minas Gerais. My research interests lie in the field of social computing. I study user behavior, social interactions and language patterns in social media and online social networks.
+I am a PhD in Computer Science from [Universidade Federal de Minas Gerais (UFMG)](http://www.ufmg.br/). I worked at the CAMPS research laboratory under supervision of Prof. [Virgilio Almeida](http://www.dcc.ufmg.br/~virgilio).
+My research interests lie in the field of social computing. I study user behavior, social interactions, language patterns, privacy, gender, and human values in the Internet. 
 
