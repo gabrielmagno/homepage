@@ -336,7 +336,7 @@ E existe também o `clippy`, um linter que vai identificar diversos padrões e t
 Em termos de recursos para IDEs e editores, eu usei o VS Code com a extensão (agora oficial) rust-analyzer (disponível também pra outros editores). Vai te dar syntax highlighting, complete, goto definition, goto references, documentation on hover, auto import, etc.
 ![Print da tela de uma sessão do VS Code, onde temos à esquerda a árvore de arquivos (com diversos arquivos com extensão .rs). À direita em destaque temos um código, onde temos um pequeno painel com a explicação do enum Query, com indicação que receber um parâmetro u64 e uma String, e com a descrição "Render specified by a query string". Na parte de baixo um terminal vazio.](/imgs/posts/breve-introducao-rust/29-vs_code.png)
 
-## O ecosistema
+## O ecossistema
 
 Outra coisa a se elogiar é a documentação do Rust. Existe por exemplo um livro oficial: The Rust Programming Language. Disponível [gratuitamente online](https://doc.rust-lang.org/book/), e também de forma offline (`rustup docs --book`), embutido na instalação básica do Rust.
 
