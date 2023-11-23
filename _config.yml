@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gabriel Magno de Oliveira Silva
-email: magno@dcc.ufmg.br
+email: gabrielmagno1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Computer Science PhD student.
+  Computer Science PhD.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gmagno.net" # the base hostname & protocol for your site
 twitter_username: gabrielmagno
