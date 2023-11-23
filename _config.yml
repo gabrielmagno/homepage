@@ -26,7 +26,7 @@ github_username:  gabrielmagno
 markdown: kramdown
 theme: minima
 
-permalink: /blog/:title
+permalink: /blog/:title/
 
 #gems: [jekyll/scholar]
 plugins: ['jekyll/scholar']
