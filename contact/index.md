@@ -19,8 +19,6 @@ Research Profiles
 Social Profiles
 ---------------
 
-- [Facebook](https://www.facebook.com/gabrielmagno1)
+- [Mastodon](https://mastodon.social/@gmagno)
 - [Twitter](https://twitter.com/gabrielmagno)
-- [Google+](https://plus.google.com/105969867262209896387)
 - [GitHub](https://github.com/gabrielmagno)
-
